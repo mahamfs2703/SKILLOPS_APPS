@@ -1,0 +1,2 @@
+[tool.streamlit-in-snowflake]
+dependencies = []
